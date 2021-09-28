@@ -1,0 +1,3 @@
+﻿  test_9_26.c
+C:\C语言\c语言vs2019\指针初阶\指针初阶\test_9_26.c(64,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  指针初阶.vcxproj -> C:\C语言\c语言vs2019\指针初阶\Debug\指针初阶.exe
